@@ -1,0 +1,7 @@
+{
+  "name": "Haath Saga",
+  "description": "A contemporary Indian slow-fashion ecommerce brand rooted in Visakhapatnam’s coastal craft heritage, blending luxury UI with handcrafted storytelling.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
